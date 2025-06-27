@@ -1,41 +1,28 @@
 # Task 4 – Aggregate Functions and Grouping (SQL Developer Internship)
 
 ## 📌 Objective
-To practice SQL aggregate functions and grouping operations to summarize tabular data.
+To apply aggregate functions and grouping operations to summarize tabular data using SQL.
 
 ## 💻 Tools Used
 - DB Browser for SQLite / MySQL Workbench
 
-## 🧠 Key Concepts
-- `SUM`, `COUNT`, `AVG`, `MIN`, `MAX`
-- `GROUP BY`, `HAVING`
-- Aggregate queries
-- Data summarization
+## 🧠 Key Concepts Covered
+- Aggregate functions: `SUM`, `COUNT`, `AVG`, `MIN`, `MAX`
+- Grouping with `GROUP BY`
+- Filtering groups using `HAVING`
+- Rounding and formatting results with `ROUND()`
 
-## 📂 Files
-- `queries.sql`: Contains all SQL queries for the task.
-- `screenshots/`: (Optional) Screenshots of query outputs.
+## 📂 Files Included
+- `queries.sql`: Contains all SQL queries executed for the task.
+- `screenshots/`: (Optional) Screenshots of outputs.
 
-## 📜 SQL Topics Covered
-- GROUP BY with multiple columns
-- Filtering groups using HAVING
-- Using COUNT(*), COUNT(column)
-- AVG(), SUM(), MIN(), MAX()
-- ROUND(), FLOOR()
+## 🧪 Sample Queries Implemented
+- Total and average salary by department
+- Highest salary per role
+- Number of employees per department
+- Departments with more than a specific number of employees
 
-## 📌 Sample Interview Questions Covered
-1. What is `GROUP BY`?
-2. Difference between `WHERE` and `HAVING`?
-3. How does `COUNT(*)` differ from `COUNT(column)`?
-4. Can you group by multiple columns?
-5. What is `ROUND()` used for?
-6. How do you find the highest salary by department?
-7. What is the default behavior of `GROUP BY`?
-8. Explain `AVG()` and `SUM()`.
-9. How to count distinct values?
-10. What is an aggregate function?
-
-## 🔗 Submission
-Link: [https://forms.gle/8Gm83s53KbyXs3Ne9](https://forms.gle/8Gm83s53KbyXs3Ne9)
+## 📝 Notes
+All queries were tested using sample data and validated using SQLite/MySQL Workbench.
 
 ---
