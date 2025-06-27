@@ -14,7 +14,6 @@ To apply aggregate functions and grouping operations to summarize tabular data u
 
 ## 📂 Files Included
 - `queries.sql`: Contains all SQL queries executed for the task.
-- `screenshots/`: (Optional) Screenshots of outputs.
 
 ## 🧪 Sample Queries Implemented
 - Total and average salary by department
